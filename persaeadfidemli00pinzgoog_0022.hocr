@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./persaeadfidemli00pinzgoog_0022.png"; bbox 0 0 2717 4600; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 569 1076 713 1142">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 569 1076 713 1142">
+     <span class='ocr_line' id='line_1_1' title="bbox 569 1076 713 1142; baseline -0.014 0"><span class='ocrx_word' id='word_1_1' title='bbox 569 1076 713 1142; x_wconf 65' lang='lat' dir='ltr'><em>TA</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 789 1054 2453 1140">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 789 1054 2453 1140">
+     <span class='ocr_line' id='line_1_2' title="bbox 789 1054 2453 1140; baseline -0.009 0"><span class='ocrx_word' id='word_1_2' title='bbox 789 1067 1012 1140; x_wconf 72' lang='lat' dir='ltr'><em>Tor</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1069 1054 1755 1137; x_wconf 84' lang='grc' dir='ltr'><em>ΔΡΛΜΑΤΟΣ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1808 1057 2453 1132; x_wconf 71' lang='grc' dir='ltr'><em>ΠΡΟΣΩΠΑ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 872 1325 1739 1496">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 872 1325 1739 1496">
+     <span class='ocr_line' id='line_1_3' title="bbox 872 1325 1739 1383; baseline -0.008 -2"><span class='ocrx_word' id='word_1_5' title='bbox 872 1325 1739 1383; x_wconf 66' lang='grc' dir='ltr'><em>ΧΟΡαΣΓΕΡΟΝἯΩΜ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 873 1444 1243 1496; baseline -0.014 0"><span class='ocrx_word' id='word_1_6' title='bbox 873 1444 1243 1496; x_wconf 58' lang='grc' dir='ltr'><em>ΑΤΟΣΣΑ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 871 1557 1796 1729">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 871 1557 1796 1729">
+     <span class='ocr_line' id='line_1_5' title="bbox 871 1557 1307 1613; baseline -0.016 0"><span class='ocrx_word' id='word_1_7' title='bbox 871 1557 1307 1613; x_wconf 65' lang='grc' dir='ltr'><em>ΛΓΓΕΛΟΣ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 871 1631 1796 1729; baseline -0.012 -1"><span class='ocrx_word' id='word_1_8' title='bbox 871 1631 1312 1729; x_wconf 42' lang='grc' dir='ltr'><em>ὶλῶΩΛΟΝ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1368 1671 1796 1722; x_wconf 57' lang='grc' dir='ltr'><em>ΔΑΡΕΙΟἏ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 885 1787 1254 1845">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 885 1787 1254 1845">
+     <span class='ocr_line' id='line_1_7' title="bbox 885 1787 1254 1845; baseline -0.027 0"><span class='ocrx_word' id='word_1_10' title='bbox 885 1787 1254 1845; x_wconf 74' lang='grc' dir='ltr'><em>ΞΕΡΞΗΣ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 2668 3804 2670 4555">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 2668 3804 2670 4555">
+     <span class='ocr_line' id='line_1_8' title="bbox 2668 3804 2670 4555; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 2668 3804 2670 4555; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
